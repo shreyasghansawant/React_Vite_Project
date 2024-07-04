@@ -1,0 +1,17 @@
+
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(150deg, white 0%, white 35%, #fd5c63 100%);
+}
+.logo{
+    margin: 0 auto;
+    display: block;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
